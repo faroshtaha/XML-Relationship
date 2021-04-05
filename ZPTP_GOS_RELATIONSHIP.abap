@@ -165,6 +165,5 @@ CLASS lcl_relation IMPLEMENTATION.
       ENDIF.
     ENDLOOP.
     COMMIT WORK.
-
   ENDMETHOD.                    "create_relations
 ENDCLASS.                    "lcl_relation IMPLEMENTATION
